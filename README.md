@@ -2,7 +2,9 @@
 Interactive LLM Chatbot with HeatWave GenAI Using Python
 
 Update the config/config_heatwave.py file accordingly.
+
 Ex:
+
 DB_CONFIG = {
     "host": "10.1.0.123",           # HeatWave IP
     "user": "MyChatUser",           # HeatWave user name
