@@ -12,3 +12,10 @@ DB_CONFIG = {
     "database": "Chatbot",          # Database name
     "port": 3306                    # HeatWave port
 }
+
+
+Then run the script.
+
+Ex:
+
+$ python3 chat.py
