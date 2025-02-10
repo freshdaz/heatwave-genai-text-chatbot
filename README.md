@@ -14,8 +14,18 @@ DB_CONFIG = {
 }
 
 
+
 Then run the script.
 
 Ex:
 
 $ python3 chat.py
+
+---------------------------------
+
+# Article related to this script:
+
+
+# Video related to this script:
+
+https://youtu.be/LEoORbJ9YM4
