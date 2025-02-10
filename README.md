@@ -1,10 +1,13 @@
 # heatwave-genai-text-chatbot
 Interactive LLM Chatbot with HeatWave GenAI Using Python
 
-Update the config/config_heatwave.py file accordingly.
+> This code, is provided for illustrative purposes only. It may contain errors or limitations. Please use it at your own risk and adapt it to your specific needs (also feel free to share back).
+----
+## Usage
+Update the ```config/config_heatwave.py``` file accordingly.
 
 Ex:
-
+```
 DB_CONFIG = {
     "host": "10.1.0.123",           # HeatWave IP
     "user": "MyChatUser",           # HeatWave user name
@@ -13,14 +16,14 @@ DB_CONFIG = {
     "port": 3306                    # HeatWave port
 }
 
-
+```
 
 Then run the script.
 
 Ex:
-
+```
 $ python3 chat.py
-
+```
 ---------------------------------
 
 # Article related to this script:
