@@ -32,3 +32,11 @@ $ python3 chat.py
 # Video related to this script:
 
 https://youtu.be/LEoORbJ9YM4
+
+---------------------------------
+
+# Follow me
+* Blog EN            : https://dasini.net/blog/en/
+* Linkedin           : https://www.linkedin.com/in/olivier-dasini
+* Data Daz           : https://www.linkedin.com/groups/12524512/
+* Presentations      : https://speakerdeck.com/freshdaz
