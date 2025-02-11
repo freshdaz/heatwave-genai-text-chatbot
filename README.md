@@ -28,6 +28,8 @@ $ python3 chat.py
 
 # Article related to this script:
 
+https://dasini.net/blog/2025/02/11/building-an-interactive-llm-chatbot-with-heatwave-using-python/
+
 
 # Video related to this script:
 
